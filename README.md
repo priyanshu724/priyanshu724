@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 
-Here are some ideas to get you started:
+
 
 <h1> Priyanshu </h1> 
 - 🌱 I’m currently learning JAVA
