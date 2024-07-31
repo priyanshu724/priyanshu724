@@ -3,7 +3,7 @@
 
 
 
-<h1> Priyanshu </h1> 
+<h1> Priyanshu Gupta</h1> 
 - 🌱 I’m currently learning JAVA
 - 👯 I’m looking to collaborate on projects
 - 🤔 I’m looking for help with ...
