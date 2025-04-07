@@ -9,8 +9,8 @@
 - 📫 How to reach me: priyanshu6024@gmail.com<br>
 
 ## 🚀 Technologies</h1>
-- <b>Frontend:</b> HTML, CSS, Bootstrap, Javascript <br>
+- <b>Frontend:</b> HTML, CSS, Bootstrap, JavaScript <br>
 - <b>Backend:</b> Java, SpringBoot, Node.js<br>
 - <b>Databases:</b> MySQL<br>
-- <b>Tools:</b> Git, VS Code, Intellij, PostMan<br>
+- <b>Tools:</b> Git, VS Code, Intellij, Postman<br>
 
