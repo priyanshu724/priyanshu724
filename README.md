@@ -4,7 +4,7 @@
 
 
 <h1> Priyanshu Gupta</h1> 
-- 🌱 I’m currently learning JAVA
+- 🌱 I’m currently learning JAVA <br>
 - 👯 I’m looking to collaborate on projects
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about anything
