@@ -12,8 +12,8 @@
 - 😄 Pronouns: he/him<br>
 
 <h1> 🚀 Technologies</h1>
-<b>Frontend:</b> HTML, CSS, Bootstrap, Javascript
-<b>Backend:</b> Java, SpringBoot, Node.js
-<b>Databases:</b> MySQL
-<b>Tools:</b> Git, VS Code, Intellij, PostMan
+<b>Frontend:</b> HTML, CSS, Bootstrap, Javascript <br>
+<b>Backend:</b> Java, SpringBoot, Node.js<br>
+<b>Databases:</b> MySQL<br>
+<b>Tools:</b> Git, VS Code, Intellij, PostMan<br>
 
